@@ -1,0 +1,18 @@
+Paramètre / Setting;Valeur / Value;Description / Description
+Entreprise / Company;NOELI SERVICE;Nom officiel
+Adresse / Address;Ampasikabo;Fort-Dauphin (614), Madagascar
+E-mail général / General email;societenoeli@gmail.com;
+Devise / Currency;MGA;Ariary malgache
+Langues / Languages;Français / English;Interface et documents bilingues
+TVA par défaut / Default VAT;0%;Modifiable selon évolution réglementaire
+Délai par défaut / Default payment term;15;Nombre de jours après service fait
+Délais disponibles / Available terms;7|15|30|45|Personnalisé;Choix flexible
+Modes de paiement / Payment methods;Virement|Chèque|Mobile money|Espèce;
+Compte bancaire / Bank account;00008 00730 050030 207 80 32;Information confidentielle
+Mvola;038 64 989 60;Information confidentielle
+Orange Money;032 01 218 50;Information confidentielle
+Préfixe facture / Invoice prefix;FAC/NS-;Format FAC/NS-AAAA-000
+Préfixe devis / Quote prefix;DEV/NS-;Format DEV/NS-AAAA-0000
+Préfixe BL / Delivery note prefix;BL/NS-;Format BL/NS-AAAA-000
+Préfixe BR / Receipt note prefix;BR/NS-;Format BR/NS-AAAA-000
+Année de travail / Working year;2026;À changer chaque nouvelle année

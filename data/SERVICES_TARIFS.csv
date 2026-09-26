@@ -1,0 +1,12 @@
+Code;Service / Service;Unité / Unit;Tarif min MGA;Tarif max MGA;TVA %;Prix flexible;Observation / Notes
+LV-PU;Location Pick Up;jour / day;200000;250000;0%;Oui / Yes;Selon durée et fidélité du client
+LV-SW;Location Station Wagon;jour / day;250000;300000;0%;Oui / Yes;Selon durée et fidélité du client
+FOU-MAT;Fournitures de matériels;unité / unit;0;0;0%;Oui / Yes;Prix selon devis et disponibilité
+PRE-FOR;Formation;session / session;0;0;0%;Oui / Yes;Prix à déterminer selon programme
+PRE-JAR;Jardinage;prestation / service;0;0;0%;Oui / Yes;Prix à déterminer
+PRE-GAR;Gardiennage;jour ou mois / day or month;0;0;0%;Oui / Yes;Prix selon durée
+PRE-CAF;Service cafétéria;prestation / service;0;0;0%;Oui / Yes;Prix selon commande
+CON-BAT;Construction d’infrastructures - bâtiments;projet / project;0;0;0%;Oui / Yes;Prix selon devis
+CON-PUI;Construction d’infrastructures - puits;projet / project;0;0;0%;Oui / Yes;Prix selon devis
+SOL-INST;Installation équipements solaires;projet / project;0;0;0%;Oui / Yes;Prix selon étude et devis
+AUTRE;Autre service ou fourniture;unité / unit;0;0;0%;Oui / Yes;À compléter
